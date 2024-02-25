@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Draw App From CAD</Name>
+		<FullClassName>Cad2Revit.Cad2Revit</FullClassName>
+		<Text>Draw From CAD App</Text>
+		<Description>This addin to create Columns.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>Cad2Revit.dll</Assembly>
+		<AddInId>
+			7BE58EE1-B204-4B16-9E09-D153A096F21A
+		</AddInId>
+		<VendorId>Ashraf</VendorId>
+		<VendorDescription>BIM Developer, ashraf.nabil.uae@gmail.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+
